@@ -150,7 +150,7 @@ function App() {
               </div>
               <h2>Python</h2>
               <div className='shadow bg-green-100 mt-2 w-full'>
-                <div className='bg-yellow-600 text-xs leading-none py-1 text-center text-white' style={{width:"80%"}}>80%</div>
+                <div className='bg-yellow-600 text-xs leading-none py-1 text-center text-white' style={{width:"70%"}}>70%</div>
               </div>
             </div>
           </div>
